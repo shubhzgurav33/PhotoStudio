@@ -26,7 +26,11 @@ body{
   color: #70aed2;
 }
 .ht{
-	padding-top: 14%;
+	margin: 0;
+  position: absolute;
+  top: 25%;
+  -ms-transform: translateY(25%);
+  transform: translateY(25%);
 }
 .nav-active {
   color: #70aed2;
